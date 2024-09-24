@@ -28,5 +28,9 @@ namespace Proyecto_Prestamos
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
 		}
+		void Label1Click(object sender, EventArgs e)
+		{
+	
+		}
 	}
 }

@@ -9,7 +9,7 @@ namespace Proyecto_Prestamos
 	{
 		public InicioSesion()
 		{
-			InitializeComponent();
+			
 		}
 	}
 }

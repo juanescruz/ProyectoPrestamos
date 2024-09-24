@@ -10,7 +10,7 @@ namespace Proyecto_Prestamos
 		{
 			this.idSucursal=idSucursal;
 			this.nombre=nombre;
-			this.nombre=nombreMunicipio;
+			this.nombreMunicipio=nombreMunicipio;
 			this.numEmpleados=numEmpleados;
 		}
 		
