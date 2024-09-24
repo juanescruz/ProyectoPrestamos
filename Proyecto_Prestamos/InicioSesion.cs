@@ -1,15 +1,27 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
 
 namespace Proyecto_Prestamos
 {
-	public partial class InicioSesion: Form
+	public partial class VentanaInicio : Form
 	{
-		public InicioSesion()
+		public VentanaInicio()
 		{
+			InitializeComponent();
 			
+		}
+		void Label1Click(object sender, EventArgs e)
+		{
+	
+		}
+		void Label2Click(object sender, EventArgs e)
+		{
+	
+		}
+		void VentanaInicioLoad(object sender, EventArgs e)
+		{
+	
 		}
 	}
 }

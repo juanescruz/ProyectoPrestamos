@@ -1,8 +1,9 @@
 C:\Users\ANAMARIA\OneDrive\Documentos\SharpDevelop Projects\Proyecto_Prestamos\Proyecto_Prestamos\obj\Debug\Proyecto_Prestamos.csprojResolveAssemblyReference.cache
-C:\Users\ANAMARIA\OneDrive\Documentos\SharpDevelop Projects\Proyecto_Prestamos\Proyecto_Prestamos\obj\Debug\Proyecto_Prestamos.Form1.resources
 C:\Users\ANAMARIA\OneDrive\Documentos\SharpDevelop Projects\Proyecto_Prestamos\Proyecto_Prestamos\obj\Debug\Proyecto_Prestamos.csproj.GenerateResource.Cache
 C:\Users\ANAMARIA\OneDrive\Documentos\SharpDevelop Projects\Proyecto_Prestamos\Proyecto_Prestamos\bin\Debug\Proyecto_Prestamos.exe.config
 C:\Users\ANAMARIA\OneDrive\Documentos\SharpDevelop Projects\Proyecto_Prestamos\Proyecto_Prestamos\bin\Debug\Proyecto_Prestamos.exe
 C:\Users\ANAMARIA\OneDrive\Documentos\SharpDevelop Projects\Proyecto_Prestamos\Proyecto_Prestamos\bin\Debug\Proyecto_Prestamos.pdb
 C:\Users\ANAMARIA\OneDrive\Documentos\SharpDevelop Projects\Proyecto_Prestamos\Proyecto_Prestamos\obj\Debug\Proyecto_Prestamos.exe
 C:\Users\ANAMARIA\OneDrive\Documentos\SharpDevelop Projects\Proyecto_Prestamos\Proyecto_Prestamos\obj\Debug\Proyecto_Prestamos.pdb
+C:\Users\ANAMARIA\OneDrive\Documentos\SharpDevelop Projects\Proyecto_Prestamos\Proyecto_Prestamos\obj\Debug\Proyecto_Prestamos.VentanaInicio.resources
+C:\Users\ANAMARIA\OneDrive\Documentos\SharpDevelop Projects\Proyecto_Prestamos\Proyecto_Prestamos\obj\Debug\Proyecto_Prestamos.VentanaSolicitud.resources
