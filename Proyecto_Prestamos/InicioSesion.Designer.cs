@@ -55,7 +55,7 @@ namespace Proyecto_Prestamos
 			// 
 			// panel1
 			// 
-			this.panel1.BackColor = System.Drawing.SystemColors.ControlLight;
+			this.panel1.BackColor = System.Drawing.Color.CornflowerBlue;
 			this.panel1.Controls.Add(this.label1);
 			this.panel1.Location = new System.Drawing.Point(16, 15);
 			this.panel1.Margin = new System.Windows.Forms.Padding(4);
@@ -66,6 +66,7 @@ namespace Proyecto_Prestamos
 			// label1
 			// 
 			this.label1.Font = new System.Drawing.Font("Arial Black", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.label1.ForeColor = System.Drawing.Color.Cornsilk;
 			this.label1.Location = new System.Drawing.Point(81, 9);
 			this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
 			this.label1.Name = "label1";
@@ -106,9 +107,9 @@ namespace Proyecto_Prestamos
 			// 
 			// Ingresar
 			// 
-			this.Ingresar.Location = new System.Drawing.Point(164, 252);
+			this.Ingresar.Location = new System.Drawing.Point(158, 238);
 			this.Ingresar.Name = "Ingresar";
-			this.Ingresar.Size = new System.Drawing.Size(75, 23);
+			this.Ingresar.Size = new System.Drawing.Size(75, 29);
 			this.Ingresar.TabIndex = 5;
 			this.Ingresar.Text = "Ingresar";
 			this.Ingresar.UseVisualStyleBackColor = true;
@@ -117,7 +118,8 @@ namespace Proyecto_Prestamos
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(399, 293);
+			this.BackColor = System.Drawing.SystemColors.ControlLightLight;
+			this.ClientSize = new System.Drawing.Size(399, 281);
 			this.Controls.Add(this.Ingresar);
 			this.Controls.Add(this.textBox2);
 			this.Controls.Add(this.label3);

@@ -63,6 +63,7 @@ namespace Proyecto_Prestamos
 			// 
 			// panel1
 			// 
+			this.panel1.BackColor = System.Drawing.Color.CornflowerBlue;
 			this.panel1.Controls.Add(this.label1);
 			this.panel1.Location = new System.Drawing.Point(12, 12);
 			this.panel1.Name = "panel1";
@@ -71,19 +72,21 @@ namespace Proyecto_Prestamos
 			// 
 			// label1
 			// 
-			this.label1.Font = new System.Drawing.Font("Arial", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.label1.Location = new System.Drawing.Point(111, 19);
+			this.label1.Font = new System.Drawing.Font("Arial Black", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.label1.ForeColor = System.Drawing.Color.Cornsilk;
+			this.label1.Location = new System.Drawing.Point(99, 17);
 			this.label1.Name = "label1";
-			this.label1.Size = new System.Drawing.Size(146, 23);
+			this.label1.Size = new System.Drawing.Size(162, 31);
 			this.label1.TabIndex = 0;
 			this.label1.Text = "SOLICITUD";
 			this.label1.Click += new System.EventHandler(this.Label1Click);
 			// 
 			// label2
 			// 
+			this.label2.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.label2.Location = new System.Drawing.Point(13, 100);
 			this.label2.Name = "label2";
-			this.label2.Size = new System.Drawing.Size(197, 23);
+			this.label2.Size = new System.Drawing.Size(238, 23);
 			this.label2.TabIndex = 1;
 			this.label2.Text = "Número de identificación del empleado:";
 			// 
@@ -96,22 +99,24 @@ namespace Proyecto_Prestamos
 			// 
 			// label3
 			// 
+			this.label3.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.label3.Location = new System.Drawing.Point(12, 169);
 			this.label3.Name = "label3";
-			this.label3.Size = new System.Drawing.Size(100, 23);
+			this.label3.Size = new System.Drawing.Size(128, 23);
 			this.label3.TabIndex = 3;
 			this.label3.Text = "Monto solicitado:";
 			this.label3.Click += new System.EventHandler(this.Label3Click);
 			// 
 			// textBox2
 			// 
-			this.textBox2.Location = new System.Drawing.Point(12, 196);
+			this.textBox2.Location = new System.Drawing.Point(12, 195);
 			this.textBox2.Name = "textBox2";
 			this.textBox2.Size = new System.Drawing.Size(369, 20);
 			this.textBox2.TabIndex = 4;
 			// 
 			// label4
 			// 
+			this.label4.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.label4.Location = new System.Drawing.Point(12, 237);
 			this.label4.Name = "label4";
 			this.label4.Size = new System.Drawing.Size(128, 23);
@@ -135,15 +140,17 @@ namespace Proyecto_Prestamos
 			// 
 			// x
 			// 
+			this.x.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.x.Location = new System.Drawing.Point(12, 307);
 			this.x.Name = "x";
-			this.x.Size = new System.Drawing.Size(128, 23);
+			this.x.Size = new System.Drawing.Size(159, 23);
 			this.x.TabIndex = 7;
-			this.x.Text = "La tasa de interés sería:";
+			this.x.Text = "Tasa de interés a pagar:";
 			// 
 			// label5
 			// 
-			this.label5.Location = new System.Drawing.Point(334, 302);
+			this.label5.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.label5.Location = new System.Drawing.Point(334, 307);
 			this.label5.Name = "label5";
 			this.label5.Size = new System.Drawing.Size(47, 23);
 			this.label5.TabIndex = 8;
@@ -152,9 +159,10 @@ namespace Proyecto_Prestamos
 			// 
 			// button1
 			// 
-			this.button1.Location = new System.Drawing.Point(141, 343);
+			this.button1.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.button1.Location = new System.Drawing.Point(123, 343);
 			this.button1.Name = "button1";
-			this.button1.Size = new System.Drawing.Size(110, 23);
+			this.button1.Size = new System.Drawing.Size(128, 23);
 			this.button1.TabIndex = 9;
 			this.button1.Text = "Solicitar Prestamo";
 			this.button1.UseVisualStyleBackColor = true;
