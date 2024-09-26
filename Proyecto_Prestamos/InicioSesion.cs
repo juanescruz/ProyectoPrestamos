@@ -23,5 +23,10 @@ namespace Proyecto_Prestamos
 		{
 	
 		}
+		void IngresarClick(object sender, EventArgs e)
+		{
+			PrincipalEmpleado principalEmpl= new PrincipalEmpleado();
+			principalEmpl.Show();
+		}
 	}
 }

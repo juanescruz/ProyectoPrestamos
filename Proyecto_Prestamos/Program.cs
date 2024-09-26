@@ -24,7 +24,7 @@ namespace Proyecto_Prestamos
 		{
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
-			Application.Run(new VentanaSolicitud());
+			Application.Run(new VentanaInicio());
 		}
 		
 	}

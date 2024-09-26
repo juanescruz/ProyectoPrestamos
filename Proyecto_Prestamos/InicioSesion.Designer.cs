@@ -113,6 +113,7 @@ namespace Proyecto_Prestamos
 			this.Ingresar.TabIndex = 5;
 			this.Ingresar.Text = "Ingresar";
 			this.Ingresar.UseVisualStyleBackColor = true;
+			this.Ingresar.Click += new System.EventHandler(this.IngresarClick);
 			// 
 			// VentanaInicio
 			// 
