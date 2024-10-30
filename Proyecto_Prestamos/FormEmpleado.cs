@@ -22,7 +22,7 @@ namespace Proyecto_Prestamos
         private System.Windows.Forms.ComboBox comboBoxCargoEmpleado;
         private Label lblSucursalEmpleado;
         private Label lblMunicipioEncargado;
-        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.ComboBox comboBoxSucursal;
         private System.Windows.Forms.ComboBox comboBoxMunicipioEmpleado;
         private Label lblSalarioEmpleado;
         private System.Windows.Forms.TextBox textBoxSalario;
@@ -48,7 +48,7 @@ namespace Proyecto_Prestamos
             id = txtId.Text;  // ID del empleado
             nombre = txtNombreEmpleado.Text;  // Nombre del empleado
             cargo = comboBoxCargoEmpleado.SelectedItem.ToString();  // Cargo del empleado
-            idSucursal = comboBox1.SelectedItem.ToString();  // Sucursal del empleado
+            idSucursal = comboBoxSucursal.SelectedItem.ToString();  // Sucursal del empleado
             nombreMunicipio = comboBoxMunicipioEmpleado.SelectedItem.ToString();  // Municipio del empleado
             estado = comboBoxEstadoSolicitudEmpleado.SelectedItem.ToString();  // Estado de la solicitud
             decimal salario = decimal.Parse(textBoxSalario.Text);  // Salario del empleado
@@ -77,7 +77,7 @@ namespace Proyecto_Prestamos
                 txtId.Text = emp.getIdEmpleado();
                 txtNombreEmpleado.Text = emp.getNombreEmpleado();
                 comboBoxCargoEmpleado.SelectedItem = emp.getCargo();
-                comboBox1.SelectedItem = emp.getIdSucursal();
+                comboBoxSucursal.SelectedItem = emp.getIdSucursal();
                 comboBoxMunicipioEmpleado.SelectedItem = emp.getNombreMunicipio();
                 comboBoxEstadoSolicitudEmpleado.SelectedItem = emp.getEstado();
                 textBoxSalario.Text = emp.getSalario().ToString();
@@ -138,7 +138,7 @@ namespace Proyecto_Prestamos
             this.comboBoxCargoEmpleado = new System.Windows.Forms.ComboBox();
             this.lblSucursalEmpleado = new System.Windows.Forms.Label();
             this.lblMunicipioEncargado = new System.Windows.Forms.Label();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.comboBoxSucursal = new System.Windows.Forms.ComboBox();
             this.comboBoxMunicipioEmpleado = new System.Windows.Forms.ComboBox();
             this.lblSalarioEmpleado = new System.Windows.Forms.Label();
             this.textBoxSalario = new System.Windows.Forms.TextBox();
@@ -239,13 +239,13 @@ namespace Proyecto_Prestamos
             this.lblMunicipioEncargado.Text = "Municipio:";
             this.lblMunicipioEncargado.Click += new System.EventHandler(this.label2_Click);
             // 
-            // comboBox1
+            // comboBoxSucursal
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(343, 251);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(173, 24);
-            this.comboBox1.TabIndex = 10;
+            this.comboBoxSucursal.FormattingEnabled = true;
+            this.comboBoxSucursal.Location = new System.Drawing.Point(343, 251);
+            this.comboBoxSucursal.Name = "comboBoxSucursal";
+            this.comboBoxSucursal.Size = new System.Drawing.Size(173, 24);
+            this.comboBoxSucursal.TabIndex = 10;
             // 
             // comboBoxMunicipioEmpleado
             // 
@@ -318,7 +318,7 @@ namespace Proyecto_Prestamos
             this.Controls.Add(this.textBoxSalario);
             this.Controls.Add(this.lblSalarioEmpleado);
             this.Controls.Add(this.comboBoxMunicipioEmpleado);
-            this.Controls.Add(this.comboBox1);
+            this.Controls.Add(this.comboBoxSucursal);
             this.Controls.Add(this.lblMunicipioEncargado);
             this.Controls.Add(this.lblSucursalEmpleado);
             this.Controls.Add(this.comboBoxCargoEmpleado);
@@ -344,9 +344,9 @@ namespace Proyecto_Prestamos
             comboBoxCargoEmpleado.Items.Add("Empleado");
 
             // Cargo opciones en ComboBox de Sucursal
-            comboBox1.Items.Add("Sucursal Norte");
-            comboBox1.Items.Add("Sucursal Centro");
-            comboBox1.Items.Add("Sucursal Sur");
+            comboBoxSucursal.Items.Add("Sucursal Norte");
+            comboBoxSucursal.Items.Add("Sucursal Centro");
+            comboBoxSucursal.Items.Add("Sucursal Sur");
 
             // Cargo opciones en ComboBox de Municipio
             comboBoxMunicipioEmpleado.Items.Add("Bogotá");
@@ -403,7 +403,7 @@ namespace Proyecto_Prestamos
             // Obtener los datos del formulario
             string nombreEmpleado = txtNombreEmpleado.Text;
             string cargo = comboBoxCargoEmpleado.SelectedItem.ToString();  // Cargo del empleado
-            string idSucursal = comboBox1.SelectedItem.ToString();  // Sucursal del empleado
+            string idSucursal = comboBoxSucursal.SelectedItem.ToString();  // Sucursal del empleado
             string nombreMunicipio = comboBoxMunicipioEmpleado.SelectedItem.ToString();  // Municipio del empleado
             string estado = comboBoxEstadoSolicitudEmpleado.SelectedItem.ToString();  // Estado de la solicitud
             decimal salario;
@@ -441,10 +441,10 @@ namespace Proyecto_Prestamos
             txtId.Clear();
             txtNombreEmpleado.Clear();
             comboBoxCargoEmpleado = null;
-            txtIdSucursal.Clear();
-            txtNombreMunicipio.Clear();
-            txtEstado.Clear();
-            txtSalario.Clear();
+            comboBoxSucursal = null;
+            comboBoxMunicipioEmpleado = null;
+            comboBoxEstadoSolicitudEmpleado = null;
+            textBoxSalario.Clear();
         }
 
     }
