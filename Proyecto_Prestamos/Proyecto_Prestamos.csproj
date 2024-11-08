@@ -62,6 +62,12 @@
       <DependentUpon>CRUDSucursal.cs</DependentUpon>
     </Compile>
     <Compile Include="Empleado.cs" />
+    <Compile Include="Conexion.cs" />
+    <Compile Include="Empleado.cs" />
+    <Compile Include="EmpleadoDao.cs" />
+    <Compile Include="FormEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="InicioSesion.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -125,6 +131,8 @@
   <ItemGroup>
     <EmbeddedResource Include="CRUDSucursal.resx">
       <DependentUpon>CRUDSucursal.cs</DependentUpon>
+    <EmbeddedResource Include="FormEmpleado.resx">
+      <DependentUpon>FormEmpleado.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="InicioSesion.resx">
       <DependentUpon>InicioSesion.cs</DependentUpon>
