@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ANAMARIA\\OneDrive\\Documentos\\SharpDevelop Projects\\Proyecto_Prestamos\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE26181-C5D2-44D8-A0E0-0D5ADD9810E3}|Proyecto_Prestamos\\Proyecto_Prestamos.csproj|c:\\users\\anamaria\\onedrive\\documentos\\sharpdevelop projects\\proyecto_prestamos\\proyecto_prestamos\\printesoreria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE26181-C5D2-44D8-A0E0-0D5ADD9810E3}|Proyecto_Prestamos\\Proyecto_Prestamos.csproj|solutionrelative:proyecto_prestamos\\printesoreria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrinTesoreria.cs",
+              "DocumentMoniker": "C:\\Users\\ANAMARIA\\OneDrive\\Documentos\\SharpDevelop Projects\\Proyecto_Prestamos\\Proyecto_Prestamos\\PrinTesoreria.cs",
+              "RelativeDocumentMoniker": "Proyecto_Prestamos\\PrinTesoreria.cs",
+              "ToolTip": "C:\\Users\\ANAMARIA\\OneDrive\\Documentos\\SharpDevelop Projects\\Proyecto_Prestamos\\Proyecto_Prestamos\\PrinTesoreria.cs",
+              "RelativeToolTip": "Proyecto_Prestamos\\PrinTesoreria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T20:39:15.953Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }
