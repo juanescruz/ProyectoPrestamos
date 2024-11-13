@@ -20,7 +20,7 @@ namespace Proyecto_Prestamos
             try
             {
                 // Cadena de conexión a tu base de datos SQL Server
-                String cadenaConexion = "Data Source=SERVIDOR_SQL;Initial Catalog=NombreBaseDeDatos;Integrated Security=True";
+                String cadenaConexion = "Data Source=PAV\\SQLEXPRESS;Initial Catalog=BancoUQ;Integrated Security=True";
                 con = new SqlConnection(@cadenaConexion);
                 
                 // Abriendo la conexión

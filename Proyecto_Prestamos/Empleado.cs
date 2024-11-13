@@ -5,9 +5,7 @@ namespace Proyecto_Prestamos
 	public class Empleado
 	{
 		private String idEmpleado, nombreEmpleado, cargo, idSucursal, nombreMunicipio, estado;
-        private decimal salario;
-		//Salario derivado
-		public Empleado(String idEmpleado, String nombreEmpleado, String cargo, String idSucursal, String nombreMunicipio,String estado, decimal salario)
+		public Empleado(String idEmpleado, String nombreEmpleado, String cargo, String idSucursal, String nombreMunicipio,String estado)
 		{
 			this.idEmpleado=idEmpleado;
 			this.nombreEmpleado=nombreEmpleado;
@@ -15,7 +13,6 @@ namespace Proyecto_Prestamos
 			this.idSucursal=idSucursal;
 			this.nombreMunicipio= nombreMunicipio;
             this.estado = estado;
-            this.salario = salario;
         }
 
         public string getIdEmpleado()
@@ -78,9 +75,7 @@ namespace Proyecto_Prestamos
             this.estado = estado;
         }
 
-        public decimal getSalario() { return salario; }
-        public void setSalario(decimal salario) { this.salario = salario; }
-
+       
         public void solicitarPrestamo(float monto, int periodo)
         {
             Console.WriteLine("Solicitud de préstamo realizada por el empleado {0} para un monto de {1} a {2} meses.", nombreEmpleado, monto, periodo);

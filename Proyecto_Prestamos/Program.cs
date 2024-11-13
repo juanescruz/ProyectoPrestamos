@@ -22,9 +22,10 @@ namespace Proyecto_Prestamos
 		[STAThread]
 		private static void Main(string[] args)
 		{
-			Application.EnableVisualStyles();
-			Application.SetCompatibleTextRenderingDefault(false);
-			Application.Run(new VentanaInicio());
+			Conexion conexion = new Conexion();
+			//Application.EnableVisualStyles();
+			//Application.SetCompatibleTextRenderingDefault(false);
+			//Application.Run(new VentanaInicio());
 		}
 		
 	}

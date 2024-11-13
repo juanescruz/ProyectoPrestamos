@@ -26,7 +26,7 @@ namespace Proyecto_Prestamos
             {
                 SqlCommand cmd = mfo.getConecte().getCon().CreateCommand();
                 cmd.CommandText = "Insert into Empleado (idEmpleado, nombreEmpleado, cargo, idSucursal, nombreMunicipio, estado, salario) " +
-                 "Values('" + emp.getIdEmpleado() + "','" + emp.getNombreEmpleado() + "','" + emp.getCargo() + "','" + emp.getIdSucursal() + "','" + emp.getNombreMunicipio() + "','" + emp.getEstado() + "'," + emp.getSalario() + ")";
+                 "Values('" + emp.getIdEmpleado() + "','" + emp.getNombreEmpleado() + "','" + emp.getCargo() + "','" + emp.getIdSucursal() + "','" + emp.getNombreMunicipio() + "','" + emp.getEstado() + ")";
                 cmd.Connection = mfo.getConecte().getCon();
                 cmd.ExecuteNonQuery();
                 MessageBox.Show("Empleado agregado exitosamente", "Atención!");
@@ -81,9 +81,8 @@ namespace Proyecto_Prestamos
                     string idSucursal = reader.GetValue(3).ToString();
                     string nombreMunicipio = reader.GetValue(4).ToString();
                     string estado = reader.GetValue(5).ToString();
-                    decimal salario = reader.GetDecimal(6); 
 
-                    emp = new Empleado(id, nombre, cargo, idSucursal, nombreMunicipio, estado, salario);
+                    emp = new Empleado(id, nombre, cargo, idSucursal, nombreMunicipio, estado);
                 }
                 reader.Close();
             }
@@ -100,7 +99,7 @@ namespace Proyecto_Prestamos
         {
             bool resultado = false;
             string consulta = "update Empleado set nombreEmpleado = '" + emp.getNombreEmpleado() + "', cargo = '" + emp.getCargo() + "', " +
-                "idSucursal = '" + emp.getIdSucursal() + "', nombreMunicipio = '" + emp.getNombreMunicipio() + "', estado = '" + emp.getEstado() + "', salario = " + emp.getSalario() + " " +
+                "idSucursal = '" + emp.getIdSucursal() + "', nombreMunicipio = '" + emp.getNombreMunicipio() + "', estado = '" + emp.getEstado() +  " " +
                 "where idEmpleado = '" + emp.getIdEmpleado() + "'";
 
             try

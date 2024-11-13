@@ -54,7 +54,7 @@ namespace Proyecto_Prestamos
             decimal salario = decimal.Parse(textBoxSalario.Text);  // Salario del empleado
 
 
-            emp = new Empleado(id, nombre, cargo, idSucursal, nombreMunicipio, estado, salario);  // Crea un nuevo empleado
+            emp = new Empleado(id, nombre, cargo, idSucursal, nombreMunicipio, estado);  // Crea un nuevo empleado
             MessageBox.Show("Empleado creado");
 
             empDao = new EmpleadoDao(mfo);  // Crea una instancia de EmpleadoDAO
@@ -80,7 +80,6 @@ namespace Proyecto_Prestamos
                 comboBoxSucursal.SelectedItem = emp.getIdSucursal();
                 comboBoxMunicipioEmpleado.SelectedItem = emp.getNombreMunicipio();
                 comboBoxEstadoSolicitudEmpleado.SelectedItem = emp.getEstado();
-                textBoxSalario.Text = emp.getSalario().ToString();
             }
         }
 
@@ -416,7 +415,7 @@ namespace Proyecto_Prestamos
             }
 
             // Crear el objeto Empleado
-            Empleado emp = new Empleado(idEmpleado, nombreEmpleado, cargo, idSucursal, nombreMunicipio, estado, salario);
+            Empleado emp = new Empleado(idEmpleado, nombreEmpleado, cargo, idSucursal, nombreMunicipio, estado);
 
             // Crear una instancia de EmpleadoDao
             EmpleadoDao empleadoDao = new EmpleadoDao(this);
