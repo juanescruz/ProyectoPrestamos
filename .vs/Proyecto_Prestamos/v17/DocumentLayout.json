@@ -1,5 +1,14 @@
 {
   "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ANAMARIA\\OneDrive\\Documentos\\SharpDevelop Projects\\Proyecto_Prestamos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE26181-C5D2-44D8-A0E0-0D5ADD9810E3}|Proyecto_Prestamos\\Proyecto_Prestamos.csproj|c:\\users\\anamaria\\onedrive\\documentos\\sharpdevelop projects\\proyecto_prestamos\\proyecto_prestamos\\printesoreria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BE26181-C5D2-44D8-A0E0-0D5ADD9810E3}|Proyecto_Prestamos\\Proyecto_Prestamos.csproj|solutionrelative:proyecto_prestamos\\printesoreria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE26181-C5D2-44D8-A0E0-0D5ADD9810E3}|Proyecto_Prestamos\\Proyecto_Prestamos.csproj|c:\\users\\anamaria\\onedrive\\documentos\\sharpdevelop projects\\proyecto_prestamos\\proyecto_prestamos\\printesoreria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE26181-C5D2-44D8-A0E0-0D5ADD9810E3}|Proyecto_Prestamos\\Proyecto_Prestamos.csproj|solutionrelative:proyecto_prestamos\\printesoreria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
   "WorkspaceRootPath": "C:\\Users\\galvi\\BasesDatos-I\\ProyectoPrestamos-main\\",
   "Documents": [
     {
@@ -7,28 +16,29 @@
       "RelativeMoniker": "D:0:0:{5BE26181-C5D2-44D8-A0E0-0D5ADD9810E3}|Proyecto_Prestamos\\Proyecto_Prestamos.csproj|solutionrelative:proyecto_prestamos\\empleadodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BE26181-C5D2-44D8-A0E0-0D5ADD9810E3}|Proyecto_Prestamos\\Proyecto_Prestamos.csproj|C:\\Users\\galvi\\BasesDatos-I\\ProyectoPrestamos-main\\proyecto_prestamos\\formempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BE26181-C5D2-44D8-A0E0-0D5ADD9810E3}|Proyecto_Prestamos\\Proyecto_Prestamos.csproj|solutionrelative:proyecto_prestamos\\formempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BE26181-C5D2-44D8-A0E0-0D5ADD9810E3}|Proyecto_Prestamos\\Proyecto_Prestamos.csproj|C:\\Users\\galvi\\BasesDatos-I\\ProyectoPrestamos-main\\proyecto_prestamos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE26181-C5D2-44D8-A0E0-0D5ADD9810E3}|Proyecto_Prestamos\\Proyecto_Prestamos.csproj|solutionrelative:proyecto_prestamos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BE26181-C5D2-44D8-A0E0-0D5ADD9810E3}|Proyecto_Prestamos\\Proyecto_Prestamos.csproj|c:\\users\\galvi\\basesdatos-i\\proyectoprestamos-main\\proyecto_prestamos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BE26181-C5D2-44D8-A0E0-0D5ADD9810E3}|Proyecto_Prestamos\\Proyecto_Prestamos.csproj|solutionrelative:proyecto_prestamos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BE26181-C5D2-44D8-A0E0-0D5ADD9810E3}|Proyecto_Prestamos\\Proyecto_Prestamos.csproj|c:\\users\\galvi\\basesdatos-i\\proyectoprestamos-main\\proyecto_prestamos\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE26181-C5D2-44D8-A0E0-0D5ADD9810E3}|Proyecto_Prestamos\\Proyecto_Prestamos.csproj|solutionrelative:proyecto_prestamos\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BE26181-C5D2-44D8-A0E0-0D5ADD9810E3}|Proyecto_Prestamos\\Proyecto_Prestamos.csproj|C:\\Users\\galvi\\BasesDatos-I\\ProyectoPrestamos-main\\proyecto_prestamos\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5BE26181-C5D2-44D8-A0E0-0D5ADD9810E3}|Proyecto_Prestamos\\Proyecto_Prestamos.csproj|c:\\users\\galvi\\basesdatos-i\\proyectoprestamos-main\\proyecto_prestamos\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5BE26181-C5D2-44D8-A0E0-0D5ADD9810E3}|Proyecto_Prestamos\\Proyecto_Prestamos.csproj|solutionrelative:proyecto_prestamos\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BE26181-C5D2-44D8-A0E0-0D5ADD9810E3}|Proyecto_Prestamos\\Proyecto_Prestamos.csproj|C:\\Users\\galvi\\BasesDatos-I\\ProyectoPrestamos-main\\proyecto_prestamos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BE26181-C5D2-44D8-A0E0-0D5ADD9810E3}|Proyecto_Prestamos\\Proyecto_Prestamos.csproj|solutionrelative:proyecto_prestamos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BE26181-C5D2-44D8-A0E0-0D5ADD9810E3}|Proyecto_Prestamos\\Proyecto_Prestamos.csproj|C:\\Users\\galvi\\BasesDatos-I\\ProyectoPrestamos-main\\proyecto_prestamos\\formempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BE26181-C5D2-44D8-A0E0-0D5ADD9810E3}|Proyecto_Prestamos\\Proyecto_Prestamos.csproj|solutionrelative:proyecto_prestamos\\formempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BE26181-C5D2-44D8-A0E0-0D5ADD9810E3}|Proyecto_Prestamos\\Proyecto_Prestamos.csproj|C:\\Users\\galvi\\BasesDatos-I\\ProyectoPrestamos-main\\proyecto_prestamos\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BE26181-C5D2-44D8-A0E0-0D5ADD9810E3}|Proyecto_Prestamos\\Proyecto_Prestamos.csproj|solutionrelative:proyecto_prestamos\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BE26181-C5D2-44D8-A0E0-0D5ADD9810E3}|Proyecto_Prestamos\\Proyecto_Prestamos.csproj|C:\\Users\\galvi\\BasesDatos-I\\ProyectoPrestamos-main\\proyecto_prestamos\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BE26181-C5D2-44D8-A0E0-0D5ADD9810E3}|Proyecto_Prestamos\\Proyecto_Prestamos.csproj|solutionrelative:proyecto_prestamos\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BE26181-C5D2-44D8-A0E0-0D5ADD9810E3}|Proyecto_Prestamos\\Proyecto_Prestamos.csproj|c:\\users\\galvi\\basesdatos-i\\proyectoprestamos-main\\proyecto_prestamos\\formempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE26181-C5D2-44D8-A0E0-0D5ADD9810E3}|Proyecto_Prestamos\\Proyecto_Prestamos.csproj|solutionrelative:proyecto_prestamos\\formempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+
     }
   ],
   "DocumentGroupContainers": [
@@ -38,51 +48,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormEmpleado.cs",
-              "DocumentMoniker": "C:\\Users\\galvi\\BasesDatos-I\\ProyectoPrestamos-main\\Proyecto_Prestamos\\FormEmpleado.cs",
-              "RelativeDocumentMoniker": "Proyecto_Prestamos\\FormEmpleado.cs",
-              "ToolTip": "C:\\Users\\galvi\\BasesDatos-I\\ProyectoPrestamos-main\\Proyecto_Prestamos\\FormEmpleado.cs",
-              "RelativeToolTip": "Proyecto_Prestamos\\FormEmpleado.cs",
-              "ViewState": "AgIAAIkBAAAAAAAAAAAewKQBAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T15:14:01.673Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\galvi\\BasesDatos-I\\ProyectoPrestamos-main\\Proyecto_Prestamos\\MainForm.cs",
-              "RelativeDocumentMoniker": "Proyecto_Prestamos\\MainForm.cs",
-              "ToolTip": "C:\\Users\\galvi\\BasesDatos-I\\ProyectoPrestamos-main\\Proyecto_Prestamos\\MainForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyecto_Prestamos\\MainForm.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T21:17:34.635Z",
-              "IsPinned": true,
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\galvi\\BasesDatos-I\\ProyectoPrestamos-main\\Proyecto_Prestamos\\Program.cs",
-              "RelativeDocumentMoniker": "Proyecto_Prestamos\\Program.cs",
-              "ToolTip": "C:\\Users\\galvi\\BasesDatos-I\\ProyectoPrestamos-main\\Proyecto_Prestamos\\Program.cs",
-              "RelativeToolTip": "Proyecto_Prestamos\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAADwvxgAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T22:16:32.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\galvi\\BasesDatos-I\\ProyectoPrestamos-main\\Proyecto_Prestamos\\MainForm.cs",
               "RelativeDocumentMoniker": "Proyecto_Prestamos\\MainForm.cs",
@@ -95,13 +70,38 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\galvi\\BasesDatos-I\\ProyectoPrestamos-main\\Proyecto_Prestamos\\MainForm.cs",
+              "RelativeDocumentMoniker": "Proyecto_Prestamos\\MainForm.cs",
+              "ToolTip": "C:\\Users\\galvi\\BasesDatos-I\\ProyectoPrestamos-main\\Proyecto_Prestamos\\MainForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto_Prestamos\\MainForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:17:34.635Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\galvi\\BasesDatos-I\\ProyectoPrestamos-main\\Proyecto_Prestamos\\FormEmpleado.cs",
+              "RelativeDocumentMoniker": "Proyecto_Prestamos\\FormEmpleado.cs",
+              "ToolTip": "C:\\Users\\galvi\\BasesDatos-I\\ProyectoPrestamos-main\\Proyecto_Prestamos\\FormEmpleado.cs",
+              "RelativeToolTip": "Proyecto_Prestamos\\FormEmpleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:14:01.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Empleado.cs",
               "DocumentMoniker": "C:\\Users\\galvi\\BasesDatos-I\\ProyectoPrestamos-main\\Proyecto_Prestamos\\Empleado.cs",
               "RelativeDocumentMoniker": "Proyecto_Prestamos\\Empleado.cs",
               "ToolTip": "C:\\Users\\galvi\\BasesDatos-I\\ProyectoPrestamos-main\\Proyecto_Prestamos\\Empleado.cs",
               "RelativeToolTip": "Proyecto_Prestamos\\Empleado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAiwEsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T17:03:39.605Z",
               "EditorCaption": ""
@@ -109,12 +109,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PrinTesoreria.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ANAMARIA\\OneDrive\\Documentos\\SharpDevelop Projects\\Proyecto_Prestamos\\Proyecto_Prestamos\\PrinTesoreria.cs",
+              "RelativeDocumentMoniker": "Proyecto_Prestamos\\PrinTesoreria.cs",
+              "ToolTip": "C:\\Users\\ANAMARIA\\OneDrive\\Documentos\\SharpDevelop Projects\\Proyecto_Prestamos\\Proyecto_Prestamos\\PrinTesoreria.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto_Prestamos\\PrinTesoreria.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T20:41:01.223Z",
               "Title": "EmpleadoDao.cs",
               "DocumentMoniker": "C:\\Users\\galvi\\BasesDatos-I\\ProyectoPrestamos-main\\Proyecto_Prestamos\\EmpleadoDao.cs",
               "RelativeDocumentMoniker": "Proyecto_Prestamos\\EmpleadoDao.cs",
               "ToolTip": "C:\\Users\\galvi\\BasesDatos-I\\ProyectoPrestamos-main\\Proyecto_Prestamos\\EmpleadoDao.cs",
               "RelativeToolTip": "Proyecto_Prestamos\\EmpleadoDao.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAWwGUAAACWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T16:23:55.535Z",
               "EditorCaption": ""
@@ -122,12 +129,37 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "FormEmpleado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\galvi\\BasesDatos-I\\ProyectoPrestamos-main\\Proyecto_Prestamos\\FormEmpleado.cs",
+              "RelativeDocumentMoniker": "Proyecto_Prestamos\\FormEmpleado.cs",
+              "ToolTip": "C:\\Users\\galvi\\BasesDatos-I\\ProyectoPrestamos-main\\Proyecto_Prestamos\\FormEmpleado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto_Prestamos\\FormEmpleado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:13:55.475Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrinTesoreria.cs",
+              "DocumentMoniker": "C:\\Users\\ANAMARIA\\OneDrive\\Documentos\\SharpDevelop Projects\\Proyecto_Prestamos\\Proyecto_Prestamos\\PrinTesoreria.cs",
+              "RelativeDocumentMoniker": "Proyecto_Prestamos\\PrinTesoreria.cs",
+              "ToolTip": "C:\\Users\\ANAMARIA\\OneDrive\\Documentos\\SharpDevelop Projects\\Proyecto_Prestamos\\Proyecto_Prestamos\\PrinTesoreria.cs",
+              "RelativeToolTip": "Proyecto_Prestamos\\PrinTesoreria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T20:39:15.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
               "Title": "Conexion.cs",
               "DocumentMoniker": "C:\\Users\\galvi\\BasesDatos-I\\ProyectoPrestamos-main\\Proyecto_Prestamos\\Conexion.cs",
               "RelativeDocumentMoniker": "Proyecto_Prestamos\\Conexion.cs",
               "ToolTip": "C:\\Users\\galvi\\BasesDatos-I\\ProyectoPrestamos-main\\Proyecto_Prestamos\\Conexion.cs",
               "RelativeToolTip": "Proyecto_Prestamos\\Conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABcAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T17:03:32.543Z",
               "EditorCaption": ""
